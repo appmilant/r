@@ -1,0 +1,13 @@
+.footer {
+    background: #4b74b6;
+    color: #ffff;
+   }
+   .footer__container {
+    position: relative;
+    height: 77px;
+    display: flex;
+    justify-content:space-between;
+   }
+   .logo__footer {
+display: inline-block;
+   }
